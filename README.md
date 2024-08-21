@@ -1,6 +1,6 @@
 ## ╚══Jovani Tamayo══╝
 
-**'IT Professional'**
+**`IT Professional`**
 
 I am a full-time student looking to transition into the IT field. I have learned
 through a mix of courses and projects that are displayed here. I have put a lot
